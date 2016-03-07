@@ -10,10 +10,15 @@ JAVA 1.8
 
 # Python Library
 numpy
+
 opencv-python 2.4.*
+
 win32gui
+
 win32api
+
 win32con
+
 Pillow
 
 # JAVA Source Code
