@@ -9,7 +9,12 @@ Python 2.7
 JAVA 1.8
 
 # Python Library
-numpy, opencv-python 2.4.*, win32gui, win32api, win32con, Pillow
+numpy
+opencv-python 2.4.*
+win32gui
+win32api
+win32con
+Pillow
 
 # JAVA Source Code
 Optimal 8/15-Puzzle Solver http://www.brian-borowski.com/software/puzzle/
